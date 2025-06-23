@@ -34,7 +34,7 @@ emp_mgnt/
 
 ## 📸 Screenshot
 
-![Preview](./emp_mgnt.png)
+![Preview](./Emp_mgnt.png)
 
 ## 🚀 Setup
 
